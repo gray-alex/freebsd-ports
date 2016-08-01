@@ -1,7 +1,7 @@
 # $FreeBSD: head/security/kpcli/Makefile 385530 2015-05-06 17:36:04Z sbz $
 
 PORTNAME=	kpcli
-PORTVERSION=	3.0
+PORTVERSION=	3.1
 CATEGORIES=	security
 MASTER_SITES=	SF/kpcli/
 EXTRACT_SUFX=	.pl
